@@ -1,0 +1,27 @@
+.todo {
+    text-align: center;
+    border: 1px solid darkcyan;
+    height: auto;
+    width: 400px;
+    margin: 100px auto;
+}
+
+.ipt {
+    margin: 5px;
+
+}
+
+.cur-value {
+    margin: 10px;
+    
+}
+
+ul {
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+}
+
+.btn {
+    float: right;
+}
